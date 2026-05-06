@@ -16,3 +16,7 @@ NOTES FOR ANALYST:
 - The sender appears to have used a keyword-based approach.
 - The keyword may be related to the case itself.
 - Hint: Try the keyword NEXUS.
+
+abcdefghijklmnopqrstuvwxyz
+
+
