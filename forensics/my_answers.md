@@ -7,9 +7,12 @@ jdoe92. ip address is entirely different, the timestamp is way past work hours, 
 The ip went from 192.168.1.102 to 10.45.88.201. the user then had activity 11 hours after normal work time. 
 
 **Q3.** List every file the suspect downloaded during the suspicious session. Why would each of these files be considered sensitive or confidential?
-
+ALL_CLIENT_DATA.zip, FINANCIAL_MASTER.xlsx, SSN_DATABASE.csv
+they have all of the cliental data, the master record for the company's finnincial choices, and a data base.
 
 **Q4.** One of the entries in the server log shows a POST request to `/admin/export.php`. What does a POST request mean, and why is this action more concerning than a GET request in this context?
+Post means send, alter, or create data on a web server.
+its more dangerous because it changes the data rather then just retrieving it. 
 
 ---
 
