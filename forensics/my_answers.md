@@ -19,12 +19,16 @@ its more dangerous because it changes the data rather then just retrieving it.
 ### Section B — Email Header Analysis
 
 **Q5.** What is the originating IP address of the email? How does this connect to the server log?
+10.45.88.201, its related to the new ip address from when the jdoe92 was active past office hours. 
 
 **Q6.** Why is the use of ProtonMail significant in this investigation? What does it suggest about the suspect's intent?
+ProtonMail is known for its anonymous usage. This suggests that whoever was doing this didn't wanted to be tracked or found out. 
 
 **Q7.** The email subject line is blank. Why might a suspect deliberately send an email with no subject? What technique might they be using?
+A way to avoid filters, as well as checking to see if the email is still active, or possibly other things like the need for curiosity. Thye are using the Null Subject soical engineering attack
 
 **Q8.** Compare the email timestamp to the server log. What does the timeline suggest about the order of events on the night of April 18?
+the two had send a email about about when to meet to transer the files, the transfer happened, then another email was sent as a thanks and a conformation. 
 
 ---
 
